@@ -119,7 +119,7 @@ export default function OrphanageData() {
             key={image}
             source={{ uri: image }}
             style={styles.uploadedImage}
-          />
+           />
         ))}
       </View>
     
